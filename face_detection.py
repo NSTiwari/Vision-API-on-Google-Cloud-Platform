@@ -13,7 +13,7 @@ bucket_name = "YOUR_BUCKET_NAME"
 image_file_name = "YOUR_IMAGE_FILE"
 
 # Define the GCS URI for the image.
-gcs_uri = f"gs://{bucket_name}/input/{image_file_name}"
+gcs_uri = f"gs://{bucket_name}//input//{image_file_name}"
 
 # Perform face detection using Cloud Vision API.
 image = vision_v1.Image()
