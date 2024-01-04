@@ -4,6 +4,6 @@ This repository provides practical demonstrations of Google Cloud Vision API usa
 ## Examples:
 
 ### Face Detection
-<img src="https://github.com/NSTiwari/Vision-API-on-Google-Cloud-Platform/blob/main/examples/FaceDetection.png" width="600" height="600"/>
+<img src="https://github.com/NSTiwari/Vision-API-on-Google-Cloud-Platform/blob/main/examples/FaceDetection.png"/>
 
 Read the [Medium](https://tiwarinitin1999.medium.com/computer-vision-made-easy-with-google-cloud-vision-api-851f3a9be80e) blog for technical details.
