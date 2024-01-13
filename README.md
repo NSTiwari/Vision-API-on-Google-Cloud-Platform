@@ -20,3 +20,4 @@ This repository provides practical demonstrations of Google Cloud Vision API usa
 
 ## References:
 - Read the [Medium](https://tiwarinitin1999.medium.com/computer-vision-made-easy-with-google-cloud-vision-api-851f3a9be80e) blog for technical details.
+- View on [Google Dev Library](https://devlibrary.withgoogle.com/authors/tiwarinitin1999).
